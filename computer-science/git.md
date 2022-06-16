@@ -103,3 +103,76 @@ git pull upstream master
 ## Other
 - [Github Profile Makeover](https://www.youtube.com/watch?v=vblMsgrGjrw)
 - [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/)
+
+# Conventions
+
+## Git & Code Reviews
+We know how much consistency within the codebase is important; the same philosophy must also be respected in the commit messages and MRs we create, so we try to follow these simple rules:
+
+### Commit
+For commit messages we use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). It is also possible to set a template for commit messages. To set it up it is recommended to follow this [guide](https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm). To force the use of Conventional Commits within projects we could think of using [commitlint](https://github.com/conventional-changelog/commitlint).
+
+### Branch
+For the branching system we follow the famous [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) workflow
+
+### Issues
+It is necessary to correctly draft the issues in order to be able to identify them quickly and intervene on what is a priority.
+
+#### Structure of an Issue
+
+_Title of the Issue_
+It is important that the title of the issue is clear and concise. A title that can quickly make people understand what the issue is about.
+
+_Component_
+It is essential to refer to the component to which the issue is logically related by means of the labels, in order to allow a quick identification of the topic.
+
+Tags can be, for example, identified as:
+
+* Platform - Generic on the platform
+* Layout - Layout changes, UX tips, etc ...
+* API - Communication problems with the API, Payload variations, etc ...
+
+_Description_
+Carefully draw up the description of the issue in order to allow other users to understand it as well.
+
+_Assignment_
+If the editor of the issue is not immediately clear which resource is useful for resolving the issue, the assignment can be made at a later time.
+
+_Type and Priority_
+It is necessary to correctly indicate the type, by means of the labels, between:
+* Bug - Used to identify a platform bug
+* Enhancement - Improvement of features already present on the platform
+* Proposal - New feature to be screened (which will vary in task if accepted)
+* Task - Anything that does not fit into the previous types
+It is also essential to define the priority of the issue in order to define the resolution order of the issues themselves.
+
+_Attachments, Comments, etc ..._
+Everything that makes the issue complete must be drafted in the best possible way.
+It is useful to remember that it is possible to link a member of the team in the comments by means of the @.
+
+_Status_
+The status of the issue must always be kept up to date.
+The issues are created as a backlog on the board, and once evaluated they are moved in progress to then be taken over.
+The subsequent status of the issues will subsequently be indicated according to the outcome of the resolution.
+
+It is useful to remember what is indicated in the link for the automatic resolution of issues:
+https://docs.gitlab.com/ee/user/project/issues/issues_functionalities.html#18-new-merge-request
+
+
+### Merge Request
+For each branch, let's get used to creating an MR so as to allow both a review of the code and the ability to link the Merge Request within Clickup.
+
+Even in the case of MR we can follow some simple guidelines.
+In the title of the MR we indicate whether it is a feature, bugfix or a refactor, while in the description we can use a template to briefly explain what the MR contains. The template I thought of is the following:
+
+What does this change?
+`<Explain what the MR contains and what changes have been made>`
+
+Why is this change important?
+`<Explain why we made the code changes and the value it carries>`
+
+How can I test it?
+`<Explain the steps to take to test the feature or fix you made>`
+
+To keep the tree of commits and branches clean, before merging the MR, it is recommended to flag the two fields: Delete branch and Squash commit.
+Once you have created the MR, enter yourself (ie the author of the MR) as Assignee, while as Reviewers specify the users who must review the code.

@@ -8,8 +8,8 @@ A curated list of awesome resources selected by Devmy team!
 
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - How computer works
 - [100+ Computer Science Concepts Explained](https://youtu.be/-uleG_Vecis)
-- [Programming](https://www.youtube.com/playlist?list=PLXtTjtWmQhg0N08o_oSaAantmQAu-1Xad) - What to code means
-  - [Complexity & Algorithms](./computer-science/complexity-algo.md) - Measure complexity and explore different algorythms
+- [Programming](https://www.youtube.com/playlist?list=PLXtTjtWmQhg0N08o_oSaAantmQAu-1Xad) - What "to code" means
+  - [Complexity & Algorithms](./computer-science/complexity-algo.md) - Measure complexity and explore different algorithms and data structures
   - [Software Architecture](./computer-science/software-architecture.md) - Principles and design patterns of software
   - [Regex101](https://regex101.com/) - Online tool to create regex
 - [Bash](./computer-science/bash.md) - Resources for the shell
@@ -50,16 +50,16 @@ A curated list of awesome resources selected by Devmy team!
   - [React.js](./web-dev/frontend/react.md)
   - [Next.js](./web-dev/frontend/nextjs.md)
   - [Angular](./web-dev/frontend/angular.md)
-  - Vue.js
+  - [Vue.js](https://vuejs.org/)
 
 ### Back-End
 
 - [Node.js](./web-dev/backend/nodejs.md)
   - [Express.js](./web-dev/backend/expressjs.md)
-  - Nest.js
+  - [Nest.js](https://nestjs.com/)
 - [PHP](./web-dev/backend/php.md)
   - [Laravel](https://www.youtube.com/watch?v=MYyJ4PuL4pY)
-  - Magento
+  - [Magento](https://magento-ecommerce.it/)
   - [Wordpress](./web-dev/backend/wordpress.md)
 
 ### BaaS
@@ -70,8 +70,8 @@ A curated list of awesome resources selected by Devmy team!
 ### Database
 
 - [MongoDB](./web-dev/databases/mongodb.md)
-- MySQL
-- SQLite
+- [MySQL](https://www.mysql.com/it/)
+- [SQLite](https://www.sqlite.org/index.html)
 
 ### Full-Stack
 
@@ -83,9 +83,13 @@ A curated list of awesome resources selected by Devmy team!
 - [React Native](./mobile/react-native.md)
 - [Ionic / Capacitor](./mobile/ionic.md)
 
+## DevOps
+
+- [Docker](./devops/docker.md)
+
 ## Desktop Development
 
-- Electron.js
+- [Electron.js](https://www.electronjs.org/)
 
 ## 3D / Game Development
 
@@ -108,9 +112,9 @@ A curated list of awesome resources selected by Devmy team!
 
 ## Other
 
-- Soft Skills
+- [Soft Skills](https://novoresume.com/career-blog/soft-skills)
 - [Google It like a Senior Software Engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
-- Github Badges [1](https://github.com/Ileriayo/markdown-badges) [2](https://dev.to/envoy_/150-badges-for-github-pnk) [3](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- Github Badges Collections [#1](https://github.com/Ileriayo/markdown-badges) [#2](https://dev.to/envoy_/150-badges-for-github-pnk) [#3](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ## Book Library
 
