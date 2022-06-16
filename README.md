@@ -4,7 +4,8 @@
 
 A curated list of awesome resources selected by Devmy team!
 
-## Computer Science
+<details>
+<summary><b>Computer Science</b></summary>
 
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - How computer works
 - [100+ Computer Science Concepts Explained](https://youtu.be/-uleG_Vecis)
@@ -18,7 +19,10 @@ A curated list of awesome resources selected by Devmy team!
 - [Visual Studio Code Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
-## Web Development
+</details>
+
+<details>
+<summary><b>Web Development</b></summary>
 
 - [Network](./web-dev/network.md)
 - [Hosting](./web-dev/hosting.md)
@@ -27,100 +31,109 @@ A curated list of awesome resources selected by Devmy team!
 - [Module Bundler](./web-dev/module-bundler.md)
 - [Other Tools](./web-dev/others.md)
 - [100+ Web Development Things you Should Know](https://youtu.be/erEgovG9WBs)
+- General Resources
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+  - [W3Schools](https://www.w3schools.com/default.asp)
+  - [web.dev](https://web.dev/)
+  - [HTML.it](https://www.html.it/)
+  - [Zero To Mastery Resources](https://zerotomastery.io/resources/)
+- Frontend
+  - [UX/UI Design](./web-dev/frontend/design.md)
+    - [Storybook](./web-dev/frontend/storybook.md)
+  - [HTML](./web-dev/frontend/html.md)
+  - [CSS](./web-dev/frontend/css.md)
+  - [JavaScript](./web-dev/frontend/javascript.md)
+  - [TypeScript](./web-dev/frontend/typescript.md)
+  - [Web App Optimization](./web-dev/frontend/web-app-optimization.md)
+  - [Data Visualisation](./web-dev/frontend/data-visualisation.md)
+  - Frameworks
+    - [React.js](./web-dev/frontend/react.md)
+    - [Next.js](./web-dev/frontend/nextjs.md)
+    - [Angular](./web-dev/frontend/angular.md)
+    - [Vue.js](https://vuejs.org/)
+- Backend
+  - [Node.js](./web-dev/backend/nodejs.md)
+    - [Express.js](./web-dev/backend/expressjs.md)
+    - [Nest.js](https://nestjs.com/)
+  - [PHP](./web-dev/backend/php.md)
+    - [Laravel](https://www.youtube.com/watch?v=MYyJ4PuL4pY)
+    - [Magento](https://magento-ecommerce.it/)
+    - [Wordpress](./web-dev/backend/wordpress.md)
+- BaaS
+  - [Firebase](./web-dev/baas/firebase.md)
+  - [Strapi](./web-dev/baas/strapi.md)
+- Database
+  - [MongoDB](./web-dev/databases/mongodb.md)
+  - [MySQL](https://www.mysql.com/it/)
+  - [SQLite](https://www.sqlite.org/index.html)
+- Full-Stack
+  - [MERN](./web-dev/fullstack/mern.md)
 
-### General Resources
+</details>
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [W3Schools](https://www.w3schools.com/default.asp)
-- [web.dev](https://web.dev/)
-- [HTML.it](https://www.html.it/)
-- [Zero To Mastery Resources](https://zerotomastery.io/resources/)
-
-### Front-End
-
-- [UX/UI Design](./web-dev/frontend/design.md)
-  - [Storybook](./web-dev/frontend/storybook.md)
-- [HTML](./web-dev/frontend/html.md)
-- [CSS](./web-dev/frontend/css.md)
-- [JavaScript](./web-dev/frontend/javascript.md)
-- [TypeScript](./web-dev/frontend/typescript.md)
-- [Web App Optimization](./web-dev/frontend/web-app-optimization.md)
-- [Data Visualisation](./web-dev/frontend/data-visualisation.md)
-- Frameworks
-  - [React.js](./web-dev/frontend/react.md)
-  - [Next.js](./web-dev/frontend/nextjs.md)
-  - [Angular](./web-dev/frontend/angular.md)
-  - [Vue.js](https://vuejs.org/)
-
-### Back-End
-
-- [Node.js](./web-dev/backend/nodejs.md)
-  - [Express.js](./web-dev/backend/expressjs.md)
-  - [Nest.js](https://nestjs.com/)
-- [PHP](./web-dev/backend/php.md)
-  - [Laravel](https://www.youtube.com/watch?v=MYyJ4PuL4pY)
-  - [Magento](https://magento-ecommerce.it/)
-  - [Wordpress](./web-dev/backend/wordpress.md)
-
-### BaaS
-
-- [Firebase](./web-dev/baas/firebase.md)
-- [Strapi](./web-dev/baas/strapi.md)
-
-### Database
-
-- [MongoDB](./web-dev/databases/mongodb.md)
-- [MySQL](https://www.mysql.com/it/)
-- [SQLite](https://www.sqlite.org/index.html)
-
-### Full-Stack
-
-- [MERN](./web-dev/fullstack/mern.md)
-
-## Mobile Development
+<details>
+<summary><b>Mobile Development</b></summary>
 
 - [Flutter](./mobile/flutter.md)
 - [React Native](./mobile/react-native.md)
 - [Ionic / Capacitor](./mobile/ionic.md)
+</details>
 
-## DevOps
+<details>
+<summary><b>DevOps</b></summary>
 
 - [Docker](./devops/docker.md)
+</details>
 
-## Desktop Development
+<details>
+<summary><b>Desktop Development</b></summary>
 
 - [Electron.js](https://www.electronjs.org/)
 
-## 3D / Game Development
+</details>
+
+<details>
+<summary><b>3D/Game Development</b></summary>
 
 - [Unity](./3D/unity.md)
 - [Unreal Engine](./3D/unreal-engine.md)
 - [Game Development](./3D/game-dev.md)
 - [Three.js](./3D/threejs.md)
 - [AFrame](./3D/aframe.md)
+</details>
 
-## Operative Systems
+<details>
+<summary><b>Operative Systems</b></summary>
 
 - [Windows](./os/windows.md)
 - [Mac](./os/mac.md)
 - [Linux](./os/linux.md)
 - [Raspberry Pi](./os/raspberry.md)
 
-## Project Management
+</details>
+
+
+<details>
+<summary><b>Project Management</b></summary>
 
 - [Agile](./project-management/agile.md)
+</details>
 
-## Other
+<details>
+<summary><b>Extra</b></summary>
 
 - [Soft Skills](https://novoresume.com/career-blog/soft-skills)
 - [Google It like a Senior Software Engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 - Github Badges Collections [#1](https://github.com/Ileriayo/markdown-badges) [#2](https://dev.to/envoy_/150-badges-for-github-pnk) [#3](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+</details>
 
-## Book Library
+<details>
+<summary><b>Book Library</b></summary>
 
 - Pragmatic Programmer - Dave Thomas & Andy Hunt
 - Clean Code - Robert Martin
 - Clean Architecture - Robert Martin
+</details>
 
 ---
 
