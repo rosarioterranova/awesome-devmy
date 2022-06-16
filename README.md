@@ -83,6 +83,7 @@ A curated list of awesome resources selected by Devmy team!
 <summary><b>DevOps</b></summary>
 
 - [Docker](./devops/docker.md)
+- [CI/CD](./devops/cicd.md)
 </details>
 
 <details>
