@@ -75,11 +75,9 @@
 - [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/)
 
 # Style Guide
-For the style of the CSS classes it is advisable to use [BEM](http://getbem.com/introduction/) which allows you to create solid and reusable class structures.
+- [BEM](http://getbem.com/introduction/) allows to create solid and reusable class structures.
+- [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) folder structure
 
-## Folder Structure
-As for the folder structure it is recommended to follow [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) instead
-
-## Tools
+# Tools
 
 - [PurgeCSS](https://purgecss.com/): A tool that removes unused CSS. Often frameworks like TailwindCSS, Bootstrap, MaterializeCSS, Foundation, etc ... are imported into projects, only to use a small set of features. With postbuild PurgeCSS parses the generated CSS files and compares the selectors found with those actually used in the content.

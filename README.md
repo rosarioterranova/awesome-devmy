@@ -31,13 +31,13 @@ A curated list of awesome resources selected by Devmy team!
 - [Module Bundler](./web-dev/module-bundler.md)
 - [Other Tools](./web-dev/others.md)
 - [100+ Web Development Things you Should Know](https://youtu.be/erEgovG9WBs)
-- General Resources
+- Web References & Resources
   - [MDN Web Docs](https://developer.mozilla.org/en-US/)
   - [W3Schools](https://www.w3schools.com/default.asp)
   - [web.dev](https://web.dev/)
   - [HTML.it](https://www.html.it/)
   - [Zero To Mastery Resources](https://zerotomastery.io/resources/)
-- Frontend
+- Front-End
   - [UX/UI Design](./web-dev/frontend/design.md)
     - [Storybook](./web-dev/frontend/storybook.md)
   - [HTML](./web-dev/frontend/html.md)
@@ -51,7 +51,7 @@ A curated list of awesome resources selected by Devmy team!
     - [Next.js](./web-dev/frontend/nextjs.md)
     - [Angular](./web-dev/frontend/angular.md)
     - [Vue.js](https://vuejs.org/)
-- Backend
+- Back-End
   - [Node.js](./web-dev/backend/nodejs.md)
     - [Express.js](./web-dev/backend/expressjs.md)
     - [Nest.js](https://nestjs.com/)

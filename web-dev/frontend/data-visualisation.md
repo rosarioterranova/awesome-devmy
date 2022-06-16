@@ -1,6 +1,6 @@
 # Data Visualisation
 
-## D3.s
+## D3.js
 - [d3 Wiki](https://github.com/d3/d3/wiki)
 - [D3.js in 100 seconds](https://www.youtube.com/watch?v=bp2GF8XcJdY)
 

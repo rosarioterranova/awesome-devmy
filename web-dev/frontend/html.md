@@ -2,7 +2,7 @@
 
 ## Docs
 
-- [W3School](https://www.w3schools.com/html/)
+- [W3School HTML](https://www.w3schools.com/html/)
 
 ## Crash Courses
 
