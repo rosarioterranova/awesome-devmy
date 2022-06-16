@@ -44,6 +44,22 @@
 - [Whi I don't use else when programming](https://www.youtube.com/watch?v=EumXak7TyQ0&)
 - [Algorithms in JavaScript with visual examples](https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3)
 
+## Linting & Code Formatting Libraries
+- [ESLint](https://github.com/eslint/eslint)
+- [Prettier](https://github.com/prettier/prettier)
+- [4-Step Guide to Setting Up ESLint & Prettier](https://medium.com/javascript-in-plain-english/4-step-guide-to-setting-up-eslint-prettier-d87904a7746e)
+- [Airbnb Javascript Style Guide](https://airbnb.io/javascript/)
+- [Setting up efficient workflows with ESLint, Prettier and TypeScript](https://indepth.dev/posts/1282/setting-up-efficient-workflows-with-eslint-prettier-and-typescript)
+- [Husky](https://github.com/typicode/husky) - Automate linting and formatting before committing (pre-commit)
+
+In each project insert the `.nvmrc` file where you need to specify the version of node to use. By doing so, by running the nvm install command, the version of node used within the project will be installed
+
+## Utility
+
+- [BundlePhobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
+- [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - visualize size of webpack output files with an interactive zoomable treemap
+- [ramda](https://github.com/ramda/ramda) - a practical functional library for JavaScript programmers.
+
 # Optimization
 
 - [Async VS Defer](https://www.youtube.com/watch?v=BMuFBYw91UQ)
