@@ -26,6 +26,7 @@ A curated list of awesome resources selected by Devmy team!
 - [Package Management](./web-dev/package-management.md)
 - [Module Bundler](./web-dev/module-bundler.md)
 - [Other Tools](./web-dev/others.md)
+- [100+ Web Development Things you Should Know](https://youtu.be/erEgovG9WBs)
 
 ### General Resources
 
