@@ -91,6 +91,7 @@
 
 # Optimization and Testing
 
+- [React Code Quality](./react-codequality.md)
 - [React TypeScript Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
 - [5 React performance optimization techniques - LogRocket Blog](https://blog.logrocket.com/5-react-performance-optimization-techniques/)
 - [Optimizing performance in a React application](https://blog.logrocket.com/optimizing-performance-react-application/)
