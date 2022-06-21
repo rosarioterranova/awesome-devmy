@@ -84,6 +84,7 @@ A curated list of awesome resources selected by Devmy team!
 
 - [Docker](./devops/docker.md)
 - [CI/CD](./devops/cicd.md)
+- [Testing](./devops/testing.md)
 </details>
 
 <details>
@@ -123,6 +124,7 @@ A curated list of awesome resources selected by Devmy team!
 <details>
 <summary><b>Extra</b></summary>
 
+- [Project Architecture](./extra/project-architecture.md)
 - [Soft Skills](https://novoresume.com/career-blog/soft-skills)
 - [Google It like a Senior Software Engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 - Github Badges Collections [#1](https://github.com/Ileriayo/markdown-badges) [#2](https://dev.to/envoy_/150-badges-for-github-pnk) [#3](https://github.com/alexandresanlim/Badges4-README.md-Profile)
