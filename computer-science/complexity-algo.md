@@ -15,3 +15,7 @@
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 - [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation
 - [JavaScript Algorithms - Codevolution](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
+
+# Data Structures
+
+- [JavaScript Algorithms - Data Structures](https://www.youtube.com/watch?v=poGEVboh9Rw&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)

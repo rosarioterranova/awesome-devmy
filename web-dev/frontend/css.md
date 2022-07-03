@@ -64,6 +64,7 @@
 - [Top 7 Ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
 - [Traversy Media - Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=4sosXZsdy-s)
 - [Material UI Tutorial](https://www.youtube.com/watch?v=0KEpWHtG10M&list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58)
+- [Tailwind Crash Course - Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ)
 
 # Games for Learning CSS
 
@@ -72,3 +73,11 @@
 - [CSS Diner - Where we feast on CSS Selectors!](https://css-diner.netlify.app/)
 - [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/)
 - [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/)
+
+# Style Guide
+- [BEM](http://getbem.com/introduction/) allows to create solid and reusable class structures.
+- [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) folder structure
+
+# Tools
+
+- [PurgeCSS](https://purgecss.com/): A tool that removes unused CSS. Often frameworks like TailwindCSS, Bootstrap, MaterializeCSS, Foundation, etc ... are imported into projects, only to use a small set of features. With postbuild PurgeCSS parses the generated CSS files and compares the selectors found with those actually used in the content.

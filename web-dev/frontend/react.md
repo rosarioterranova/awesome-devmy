@@ -11,6 +11,7 @@
 - [Traversy Media - React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 - [Clever Programmer - React in 30 Minutes](https://www.youtube.com/watch?v=vIRBSI-elUM)
 - [Web Dev Simplified - React in 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
+- [React Course 2022 - FreeCodeCamp](https://youtu.be/bMknfKXIFA8)
 - [10 React Antipatterns to Avoid](https://www.youtube.com/watch?v=b0IZo2Aho9Y)
 
 ## Styling
@@ -90,6 +91,7 @@
 
 # Optimization and Testing
 
+- [React Code Quality](./react-codequality.md)
 - [React TypeScript Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
 - [5 React performance optimization techniques - LogRocket Blog](https://blog.logrocket.com/5-react-performance-optimization-techniques/)
 - [Optimizing performance in a React application](https://blog.logrocket.com/optimizing-performance-react-application/)

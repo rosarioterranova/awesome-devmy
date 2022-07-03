@@ -44,6 +44,23 @@
 - [Whi I don't use else when programming](https://www.youtube.com/watch?v=EumXak7TyQ0&)
 - [Algorithms in JavaScript with visual examples](https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3)
 
+## Linting & Code Formatting Libraries
+
+- [ESLint](https://github.com/eslint/eslint)
+- [Prettier](https://github.com/prettier/prettier)
+- [4-Step Guide to Setting Up ESLint & Prettier](https://medium.com/javascript-in-plain-english/4-step-guide-to-setting-up-eslint-prettier-d87904a7746e)
+- [Airbnb Javascript Style Guide](https://airbnb.io/javascript/)
+- [Setting up efficient workflows with ESLint, Prettier and TypeScript](https://indepth.dev/posts/1282/setting-up-efficient-workflows-with-eslint-prettier-and-typescript)
+- [Husky](https://github.com/typicode/husky) - Automate linting and formatting before committing (pre-commit)
+
+In each project insert the `.nvmrc` file where you need to specify the version of node to use. By doing so, by running the nvm install command, the version of node used within the project will be installed
+
+## Utility
+
+- [BundlePhobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
+- [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - visualize size of webpack output files with an interactive zoomable treemap
+- [ramda](https://github.com/ramda/ramda) - a practical functional library for JavaScript programmers.
+
 # Optimization
 
 - [Async VS Defer](https://www.youtube.com/watch?v=BMuFBYw91UQ)
@@ -52,6 +69,7 @@
 
 # JS Engine
 
+- [JavaScript Under the Hood - Traversy Media](https://www.youtube.com/watch?v=-G9c4CMMUKc&list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB)
 - [JavaScript Event Loop Explained. “How is JavaScript asynchronous" by Anoop Raveendran](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
 - [What the heck is the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Event Loop Simulator](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!)

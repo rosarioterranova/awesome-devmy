@@ -1,4 +1,4 @@
-# Hosting
+# Hosting Services
 
 - [Netlify](https://netlify.com/)
 - [Vercel](https://vercel.com/)
