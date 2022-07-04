@@ -176,3 +176,7 @@ How can I test it?
 
 To keep the tree of commits and branches clean, before merging the MR, it is recommended to flag the two fields: Delete branch and Squash commit.
 Once you have created the MR, enter yourself (ie the author of the MR) as Assignee, while as Reviewers specify the users who must review the code.
+
+## GitFlow + Conventional Commits + Semantic Autorelease
+
+[Gitflow+CC+SA](./gitflow-cc-sa.md)
