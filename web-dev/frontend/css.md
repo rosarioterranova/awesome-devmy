@@ -7,9 +7,10 @@
 - [3 More Life-Changing CSS Tips](https://www.youtube.com/watch?v=JSURzPQnkl0)
 - [Specificity Calculator](https://specificity.keegan.st/)
 - [Selectors Cheatsheet](https://i.redd.it/qya1xln0rwz81.png)
-- [Wildcard Selectors (*, ^ and $) in CSS for classes](https://www.geeksforgeeks.org/wildcard-selectors-and-in-css-for-classes/)
+- [Wildcard Selectors (\*, ^ and $) in CSS for classes](https://www.geeksforgeeks.org/wildcard-selectors-and-in-css-for-classes/)
 
 ## Positions
+
 - [Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU)
 - [Top 3 Ways to Center a DIV with CSS](https://www.youtube.com/watch?v=njdJeu95p6s)
 - [Learn CSS Transform In 15 Minutes](https://www.youtube.com/watch?v=rzD-cPhq02E&list=PL8bTo5TsZ3k5O_lDIkdCltFVbybxb2Dv9)
@@ -57,7 +58,9 @@
 ## Other
 
 - [SVG Repo](https://www.svgrepo.com/)
+- [Change SVG Color](https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element/53336754#53336754)
 - [Normalize.css: Make browsers render all elements more consistently.](https://necolas.github.io/normalize.css/)
+- [Defensive CSS](https://defensivecss.dev/)
 
 # Frameworks
 
@@ -65,6 +68,12 @@
 - [Traversy Media - Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=4sosXZsdy-s)
 - [Material UI Tutorial](https://www.youtube.com/watch?v=0KEpWHtG10M&list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58)
 - [Tailwind Crash Course - Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+
+# Icons
+
+- [Fontawesome](https://fontawesome.com/icons)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Ionicons](https://ionic.io/ionicons)
 
 # Games for Learning CSS
 
@@ -75,6 +84,7 @@
 - [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/)
 
 # Style Guide
+
 - [BEM](http://getbem.com/introduction/) allows to create solid and reusable class structures.
 - [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) folder structure
 

@@ -31,6 +31,7 @@ A curated list of awesome resources selected by Devmy team!
 - [Module Bundler](./web-dev/module-bundler.md)
 - [Other Tools](./web-dev/others.md)
 - [100+ Web Development Things you Should Know](https://youtu.be/erEgovG9WBs)
+- [Open Source Projects - Clone Wars](https://github.com/GorvGoyl/Clone-Wars)
 - Web References & Resources
   - [MDN Web Docs](https://developer.mozilla.org/en-US/)
   - [W3Schools](https://www.w3schools.com/default.asp)
@@ -113,7 +114,6 @@ A curated list of awesome resources selected by Devmy team!
 - [Raspberry Pi](./os/raspberry.md)
 
 </details>
-
 
 <details>
 <summary><b>Project Management</b></summary>

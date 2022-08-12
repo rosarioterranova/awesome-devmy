@@ -1,5 +1,7 @@
 # Mac
+
 - [How to Install Applications on Your Mac - The Mac Security Blog](https://www.intego.com/mac-security-blog/how-to-install-applications-on-your-mac/)
+- [Setting up a Mac for Development](https://dev.to/w3cj/setting-up-a-mac-for-development-3g4c)
 - [The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/)
 - [Homebrew on macOS](https://www.youtube.com/watch?v=1uvr9-zUB3w)
 - [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/#install)

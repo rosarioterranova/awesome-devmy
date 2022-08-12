@@ -8,6 +8,7 @@
 - [Awesome React](https://github.com/enaqx/awesome-react) - Ecosystem Resources
 
 ## Crash Courses
+
 - [Traversy Media - React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 - [Clever Programmer - React in 30 Minutes](https://www.youtube.com/watch?v=vIRBSI-elUM)
 - [Web Dev Simplified - React in 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
@@ -22,6 +23,7 @@
 - [Traversy Media - Styled Components Crash Course](https://www.youtube.com/watch?v=02zO0hZmwnw)
 
 # Hooks
+
 - [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - [UseLayoutEffect in 5 minutes](https://www.youtube.com/watch?v=wU57kvYOxT4)
 - [When to useLayoutEffect Instead of useEffect](https://daveceddia.com/useeffect-vs-uselayouteffect/)
@@ -29,6 +31,7 @@
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 
 ## Refs
+
 - [Learn useRef in 11 minutes](https://www.youtube.com/watch?v=t2ypzz6gJm0)
 - [useImperativeHandle Exaplained](https://www.youtube.com/watch?v=ZtcgPhWv1e8)
 - [React Hooks – useRef hook example - love-coding](https://love-coding.pl/en/react-hooks-useref-hook-example/)
@@ -39,6 +42,7 @@
 - [ForwardRef in Functional Components | React hooks](https://codezup.com/forwardref-in-functional-components-react-hooks/)
 
 ## Context
+
 - [How to use React Context](https://www.youtube.com/watch?v=xAhta1yZzwo)
 - [Learn useContext in 13 minutes](https://www.youtube.com/watch?v=5LrDIWkK_Bc)
 
@@ -49,10 +53,12 @@
 - [Rehooks - React Hooks for Everything](https://github.com/rehooks)
 
 # Virtual DOM
+
 - [React and the Virtual DOM](https://www.youtube.com/watch?v=BYbgopx44vo)
 - [How React.js Works](https://youtu.be/mLMfx8BEt8g)
 
 # Router
+
 - [React Router: Declarative Routing for React.js](https://v5.reactrouter.com/web/guides/quick-start)
 - [How to get the current URL and pathname in React | Suraj Sharma](https://surajsharma.net/blog/current-url-in-react)
 - [React Router in 5 minutes](https://www.youtube.com/watch?v=yQf1KbGiwiI)
@@ -60,6 +66,7 @@
 # Global State Managers
 
 ## Redux Toolkit
+
 - [Redux in 100 Seconds](https://youtu.be/_shA5Xwe8_4)
 - [Redux Essentials Overview and Concepts](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 - [Redux Toolkit Quick Start](https://redux-toolkit.js.org/tutorials/quick-start)
@@ -67,12 +74,15 @@
 - [Action listener middleware](https://github.com/reduxjs/redux-toolkit/discussions/1648)
 - [Introduzione a Redux Toolkit](https://www.youtube.com/watch?v=maJRIabnuPw)
 - [Redux Toolkit Tutorial](https://www.youtube.com/watch?v=iBUJVy8phqw)
+- [Using TypeScript with Redux Toolkit](https://blog.logrocket.com/using-typescript-with-redux-toolkit/)
 
 ## Recoil
+
 - [Recoil - A state management library for React](https://recoiljs.org/)
 - [Recoil: State Management for Today's React](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
 
 ## Zustand
+
 - [Zustand State Management Tutorial](https://www.youtube.com/watch?v=jLcF0Az1nx8)
 
 # Design Systems
@@ -102,11 +112,13 @@
 - [React Testing Crash Course](https://www.youtube.com/watch?v=OVNjsIto9xM)
 
 # Architecture
+
 - [Understanding MVC Architecture with React by Daniel Deutsch](https://medium.com/createdd-notes/understanding-mvc-architecture-with-react-6cd38e91fefd)
 - [React Architecture: How to Structure and Organize a React Application | Tania Rascia](https://www.taniarascia.com/react-architecture-directory-structure/)
 - [React Architecture Patterns for Your Projects](https://blog.openreplay.com/react-architecture-patterns-for-your-projects)
 
 # Libraries
+
 - [React Chart JS Crash Course](https://www.youtube.com/watch?v=Ge6PQkpa6pA)
 - [Build a Terminal Dashboard in React with `react-blessed`](https://elijahmanor.com/blog/react-blessed)
 - [javascript - React.js: Set innerHTML vs dangerouslySetInnerHTML - Stack Overflow](https://stackoverflow.com/questions/37337289/react-js-set-innerhtml-vs-dangerouslysetinnerhtml)

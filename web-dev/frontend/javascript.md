@@ -23,6 +23,7 @@
 - [Favorite JavaScript utilities in single line of code - 1 LOC](https://1loc.dev/)
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 - [How to get min or max of an array in JavaScript | by Vlad Bezden | Medium](https://medium.com/@vladbezden/how-to-get-min-or-max-of-an-array-in-javascript-1c264ec6e1aa)
+- [Functional Programming in JavaScript](https://www.toptal.com/javascript/functional-programming-javascript#:~:text=Is%20JavaScript%20a%20functional%20programming,first%2Dclass%20features%20it%20provides.)
 
 # Async
 
@@ -80,6 +81,7 @@ In each project insert the `.nvmrc` file where you need to specify the version o
 - [Flickity - Touch, responsive, flickable carousels](https://flickity.metafizzy.co/)
 - [Custom Forms with No Server Code](https://formspree.io/)
 - [EmailJS](https://www.emailjs.com/)
+- [SendGrid](https://sendgrid.com/)
 
 # Miscelana
 
