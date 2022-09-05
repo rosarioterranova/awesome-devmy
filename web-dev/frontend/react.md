@@ -103,6 +103,7 @@
 
 - [React Code Quality](./react-codequality.md)
 - [React TypeScript Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
+- [TypeScript Course In ReactJS](https://youtu.be/1jMJDbq7ZX4)
 - [5 React performance optimization techniques - LogRocket Blog](https://blog.logrocket.com/5-react-performance-optimization-techniques/)
 - [Optimizing performance in a React application](https://blog.logrocket.com/optimizing-performance-react-application/)
 - [How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code)
@@ -116,6 +117,7 @@
 - [Understanding MVC Architecture with React by Daniel Deutsch](https://medium.com/createdd-notes/understanding-mvc-architecture-with-react-6cd38e91fefd)
 - [React Architecture: How to Structure and Organize a React Application | Tania Rascia](https://www.taniarascia.com/react-architecture-directory-structure/)
 - [React Architecture Patterns for Your Projects](https://blog.openreplay.com/react-architecture-patterns-for-your-projects)
+- [Junior vs Senior React Folder Structure - How To Organize React Projects](https://youtu.be/UUga4-z7b6s)
 
 # Libraries
 
