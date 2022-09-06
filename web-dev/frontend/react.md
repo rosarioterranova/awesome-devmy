@@ -102,6 +102,7 @@
 # Optimization and Testing
 
 - [React Code Quality](./react-codequality.md)
+- [The minimum TypeScript you need for React](https://ente.io/blog/tech/typescript-for-react/)
 - [React TypeScript Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
 - [TypeScript Course In ReactJS](https://youtu.be/1jMJDbq7ZX4)
 - [5 React performance optimization techniques - LogRocket Blog](https://blog.logrocket.com/5-react-performance-optimization-techniques/)
