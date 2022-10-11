@@ -40,6 +40,7 @@
 - [CSS in TypeScript with vanilla-extract](https://css-tricks.com/css-in-typescript-with-vanilla-extract/)
 - [Box Shadow Generator and Inspiration](https://box-shadow.art/)
 - [CSS Image size, how to fill, but not stretch](https://stackoverflow.com/questions/11757537/css-image-size-how-to-fill-but-not-stretch)
+- [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
 
 # Resources
 

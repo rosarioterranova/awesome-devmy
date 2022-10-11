@@ -92,3 +92,4 @@ In each project insert the `.nvmrc` file where you need to specify the version o
 - [How to get the difference between two arrays in JavaScript? Stack Overflow](https://stackoverflow.com/questions/1187518/how-to-get-the-difference-between-two-arrays-in-javascript/33034768#33034768)
 - [How to deal with floating point number precision in JavaScript](https://stackoverflow.com/questions/1458633/how-to-deal-with-floating-point-number-precision-in-javascript)
 - [Online image map generator](https://www.image-map.net/)
+- [How To Send Push Notifications With JavaScript](https://youtu.be/Bm0JjR4kP8w)

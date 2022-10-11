@@ -6,6 +6,7 @@
 - [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) - Cheatsheet
 - [300+ React Interview Questions](https://dev.to/sakhnyuk/300-react-interview-questions-2ko4#what-is-react) - Interview Questions
 - [Awesome React](https://github.com/enaqx/awesome-react) - Ecosystem Resources
+- [React: The Most Prolific JavaScript Framework](https://youtu.be/BBWA7PGJcts) - History
 
 ## Crash Courses
 
@@ -99,7 +100,7 @@
 
 - [How to Deploy a React App to GitHub Pages](https://hackernoon.com/how-to-deploy-a-react-app-to-github-pages)
 
-# Optimization and Testing
+# Optimization, Testing and Best Pratices
 
 - [React Code Quality](./react-codequality.md)
 - [The minimum TypeScript you need for React](https://ente.io/blog/tech/typescript-for-react/)
@@ -112,6 +113,7 @@
 - [Understanding Reconciliation: React Rendering Phases](https://dev.to/thee_divide/reconciliation-react-rendering-phases-56g2)
 - [How many re-renders is too many?](https://alexsidorenko.com/blog/react-how-many-rerenders/)
 - [React Testing Crash Course](https://www.youtube.com/watch?v=OVNjsIto9xM)
+- [5 Pro-Level React Do's & Don'ts](https://youtu.be/4FhJkX18fS8)
 
 # Architecture
 

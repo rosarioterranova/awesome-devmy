@@ -91,7 +91,7 @@ A curated list of awesome resources selected by Devmy team!
 <details>
 <summary><b>Desktop Development</b></summary>
 
-- [Electron.js](https://www.electronjs.org/)
+- [Electron.js](./desktop/electron.md)
 
 </details>
 
@@ -103,6 +103,8 @@ A curated list of awesome resources selected by Devmy team!
 - [Game Development](./3D/game-dev.md)
 - [Three.js](./3D/threejs.md)
 - [AFrame](./3D/aframe.md)
+- [React Three Fiber](https://youtu.be/Tfud2Mo_9sY)
+
 </details>
 
 <details>
