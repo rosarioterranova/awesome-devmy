@@ -15,6 +15,8 @@
 - [Web Dev Simplified - React in 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 - [React Course 2022 - FreeCodeCamp](https://youtu.be/bMknfKXIFA8)
 - [10 React Antipatterns to Avoid](https://www.youtube.com/watch?v=b0IZo2Aho9Y)
+- [PedroTech - ReactJS Course For Beginners 2022](https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR)
+- [Become a Pro React Developer - Herrington](https://www.youtube.com/playlist?list=PLNqp92_EXZBJs6rKouX5U8-tWJgTLaeKv)
 
 ## Styling
 
