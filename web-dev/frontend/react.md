@@ -4,7 +4,6 @@
 - [React Docs Beta](https://beta.reactjs.org/) - Official Docs
 - [React Developer Tools - Chrome Web Store](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en) - Chrome Extension
 - [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) - Cheatsheet
-- [300+ React Interview Questions](https://dev.to/sakhnyuk/300-react-interview-questions-2ko4#what-is-react) - Interview Questions
 - [Awesome React](https://github.com/enaqx/awesome-react) - Ecosystem Resources
 - [React: The Most Prolific JavaScript Framework](https://youtu.be/BBWA7PGJcts) - History
 

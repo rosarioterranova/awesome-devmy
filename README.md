@@ -17,7 +17,6 @@ A curated list of awesome resources selected by Devmy team!
 - [Git](./computer-science/git.md) - How to use this free and open source distributed version control system
 - [SSH](./computer-science/ssh.md)
 - [Visual Studio Code Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
 </details>
 
@@ -129,6 +128,7 @@ A curated list of awesome resources selected by Devmy team!
 - [Project Architecture](./extra/project-architecture.md)
 - [Soft Skills](https://novoresume.com/career-blog/soft-skills)
 - [Google It like a Senior Software Engineer](https://www.youtube.com/watch?v=cEBkvm0-rg0)
+- [Interviews](./extra/interviews.md)
 - Github Badges Collections [#1](https://github.com/Ileriayo/markdown-badges) [#2](https://dev.to/envoy_/150-badges-for-github-pnk) [#3](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 </details>
 
