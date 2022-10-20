@@ -4,6 +4,7 @@
 - [The Story of Next.js](https://www.youtube.com/watch?v=BILxV_vrZO0)
 - [Next.js in 100 seconds](https://www.youtube.com/watch?v=Sklc_fQBmcs)
 - [Traversy Media - Next.js Crash Course](https://www.youtube.com/watch?v=mTz0GXj8NN0)
+- [Next.js Tutorial for Beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
 - [What is SSG?](https://www.youtube.com/watch?v=6ElI2ZJ4Uro)
 - [Boilerplate Examples](https://github.com/vercel/next.js/tree/canary/examples)
 
