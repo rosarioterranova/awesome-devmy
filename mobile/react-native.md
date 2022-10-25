@@ -17,3 +17,8 @@
 - [React Native in 100 seconds](https://www.youtube.com/watch?v=gvkqT_Uoahw)
 - [Traversy Media: React Native Crash Course](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 - [React Native Tutorial for Beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+
+## Performance Optimization
+
+- [Mastering React Memo - Jack Herrington](https://youtu.be/DEPwA3mv_R8)
+- [Evening Kid Optimization Playlist](https://www.youtube.com/playlist?list=PLiVL41zTt2lJt6lPOX1Woe449zc-Z-pVa)
