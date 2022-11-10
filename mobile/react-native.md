@@ -28,3 +28,7 @@
 - [Performance debugging on React-Native - Medium](https://medium.com/geekculture/performance-debugging-on-react-native-80f690936af7)
 - [How to check if your component rerendered - and why!](https://jsramblings.com/how-to-check-if-your-component-rerendered-and-why/#:~:text=There's%20a%20checkbox%20well%20hidden,when%20components%20render.%22%20checkbox.)
 - [What does the hook numbers in the Reactjs Dev tool correspond to?](https://stackoverflow.com/a/69263985/19298817)
+
+## Testing
+
+- [E2E Detox](https://blog.logrocket.com/react-native-end-to-end-testing-detox/)
