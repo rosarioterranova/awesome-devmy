@@ -6,7 +6,6 @@
 
 ## Resources
 
-- [React Native Directory](https://reactnative.directory/) - Third Party Libraries
 - [The React Native Community Map - Kelset](https://lifeiswhat.notion.site/The-React-Native-Community-Map-07f3221c294d4c8ab65a13cf1dee6901)
 - [Setup Alias in React Native TypeScript](https://www.reactnativeschool.com/how-to-setup-path-alias-in-a-react-native-typescript-app)
 - [Setup Vanilla React Native](https://reactnative.dev/docs/environment-setup)
@@ -36,3 +35,20 @@
 ## Testing
 
 - [E2E Detox](https://blog.logrocket.com/react-native-end-to-end-testing-detox/)
+
+## Librariers
+
+- [React Native Directory](https://reactnative.directory/) - Third Party Libraries
+- [RN Navigation](https://reactnavigation.org/)
+- [RN Calendars](https://github.com/wix/react-native-calendars)
+- [RN Maps](https://github.com/react-native-maps/react-native-maps)
+- [RN BottomSheets](https://github.com/gorhom/react-native-bottom-sheet)
+- [RN Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- [RN WebView](https://github.com/react-native-webview/react-native-webview)
+
+## UIKit
+
+- [Native Base](https://nativebase.io/)
+- [RN Elements](https://reactnativeelements.com/)
+- [UI Kitten](https://akveo.github.io/react-native-ui-kitten/)
+- [RN Paper](https://callstack.github.io/react-native-paper/)
