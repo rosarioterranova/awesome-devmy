@@ -18,6 +18,10 @@
 - [Traversy Media: React Native Crash Course](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 - [React Native Tutorial for Beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 
+- ## Animations
+
+-[How To Animated - evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6) -[Easy animations in React Native using Reanimated 2](https://youtu.be/ffMQ_R2Q9pk)
+
 ## Debugging and Performance Optimization
 
 - [Debugging Guide RN](https://reactnative.dev/docs/debugging#react-developer-tools)
