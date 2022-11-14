@@ -17,9 +17,10 @@
 - [Traversy Media: React Native Crash Course](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 - [React Native Tutorial for Beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 
-- ## Animations
+## Animations
 
--[How To Animated - evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6) -[Easy animations in React Native using Reanimated 2](https://youtu.be/ffMQ_R2Q9pk)
+- [How To Animated - evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
+- [Easy animations in React Native using Reanimated 2](https://youtu.be/ffMQ_R2Q9pk)
 
 ## Debugging and Performance Optimization
 
@@ -35,6 +36,7 @@
 ## Testing
 
 - [E2E Detox](https://blog.logrocket.com/react-native-end-to-end-testing-detox/)
+- [Detox: Writing Stable Test Suites](https://medium.com/wix-engineering/detox-writing-stable-test-suites-372c9d537184)
 
 ## Librariers
 
