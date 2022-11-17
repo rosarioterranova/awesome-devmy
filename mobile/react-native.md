@@ -22,11 +22,12 @@
 - [How To Animated - evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
 - [Easy animations in React Native using Reanimated 2](https://youtu.be/ffMQ_R2Q9pk)
 
-## Debugging and Performance Optimization
+## Debugging, Profiling and Performance Optimization
 
 - [Debugging Guide RN](https://reactnative.dev/docs/debugging#react-developer-tools)
 - [Performance Guide RN](https://reactnative.dev/docs/performance)
 - [Mastering React Memo - Jack Herrington](https://youtu.be/DEPwA3mv_R8)
+- [The Definitive Guide To Profiling React Applications](https://blog.openreplay.com/the-definitive-guide-to-profiling-react-applications/)
 - [The Ultimate Guide to React Native Optimization (EBOOK)](https://www.callstack.com/blog/the-ultimate-guide-to-react-native-optimization)
 - [Evening Kid Optimization Playlist](https://www.youtube.com/playlist?list=PLiVL41zTt2lJt6lPOX1Woe449zc-Z-pVa)
 - [Performance debugging on React-Native - Medium](https://medium.com/geekculture/performance-debugging-on-react-native-80f690936af7)
