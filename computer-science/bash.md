@@ -4,6 +4,7 @@
 
 - [Bash in 100 seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
 - [Basic cURL Tutorial](https://www.youtube.com/watch?v=7XUibDYw4mc)
+- [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w)
 
 ## Common CMDs
 
