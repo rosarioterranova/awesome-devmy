@@ -11,6 +11,7 @@
 - [Traversy Media - Javascript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - [History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
 - [The JavaScript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg)
+- [100+ JavaScript Concepts you Need to Know](https://youtu.be/lkIFF4maKMU)
 - [Higher Order Functions & Array](https://www.youtube.com/watch?v=rRgD1yVwIvE)
 - [8 Must Know JS Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
 - [JS Modules](https://www.youtube.com/watch?v=cRHQNNcYf6s)

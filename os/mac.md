@@ -7,6 +7,7 @@
 - [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/#install)
 - [Running Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac)
 - [Fix cmd `code .`](https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma)
+- [50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!)](https://youtu.be/qOrlYzqXPa8)
 
 # Useful tools
 
