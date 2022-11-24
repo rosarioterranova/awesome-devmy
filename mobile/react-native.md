@@ -3,6 +3,7 @@
 - [React Native - Learn once, write anywhere.](https://reactnative.dev/)
 - [Expo - Make any app. Run it everywhere.](https://expo.dev/)
 - [React Navigation - Routing and navigation for Expo and React Native apps.](https://reactnavigation.org/)
+- [How react-native became performant as native with the new architecture](https://medium.com/ocp-digital-factory/how-react-native-became-performant-as-native-with-the-new-architecture-6e678c3178aa)
 
 ## Resources
 
