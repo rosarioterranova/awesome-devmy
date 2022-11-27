@@ -22,6 +22,7 @@
 
 - [How To Animated - evening kid](https://www.youtube.com/playlist?list=PLiVL41zTt2lIIdZvWBwzoCjOb84DKtOX6)
 - [Easy animations in React Native using Reanimated 2](https://youtu.be/ffMQ_R2Q9pk)
+- [Gesture Handler tutorial in React Native](https://youtu.be/fWHiSuz-V68)
 
 ## Debugging, Profiling and Performance Optimization
 
