@@ -17,6 +17,7 @@
 - [React Native in 100 seconds](https://www.youtube.com/watch?v=gvkqT_Uoahw)
 - [Traversy Media: React Native Crash Course](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 - [React Native Tutorial for Beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+- [ALL 24 React Native Components Explained In Less Than 9 Minutes](https://youtu.be/-d3ti_YW-OM)
 
 ## Animations
 
@@ -32,6 +33,7 @@
 - [The Definitive Guide To Profiling React Applications](https://blog.openreplay.com/the-definitive-guide-to-profiling-react-applications/)
 - [The Ultimate Guide to React Native Optimization (EBOOK)](https://www.callstack.com/blog/the-ultimate-guide-to-react-native-optimization)
 - [Evening Kid Optimization Playlist](https://www.youtube.com/playlist?list=PLiVL41zTt2lJt6lPOX1Woe449zc-Z-pVa)
+- [How the React Native Bridge works (and how it will change in the future)](https://youtu.be/TU_kTuz2i9Y)
 - [Performance debugging on React-Native - Medium](https://medium.com/geekculture/performance-debugging-on-react-native-80f690936af7)
 - [How to check if your component rerendered - and why!](https://jsramblings.com/how-to-check-if-your-component-rerendered-and-why/#:~:text=There's%20a%20checkbox%20well%20hidden,when%20components%20render.%22%20checkbox.)
 - [What does the hook numbers in the Reactjs Dev tool correspond to?](https://stackoverflow.com/a/69263985/19298817)
