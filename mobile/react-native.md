@@ -52,6 +52,7 @@
 - [RN BottomSheets](https://github.com/gorhom/react-native-bottom-sheet)
 - [RN Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 - [RN WebView](https://github.com/react-native-webview/react-native-webview)
+- [Victory Native](https://formidable.com/open-source/victory/) - Charts
 
 ## UIKit
 
